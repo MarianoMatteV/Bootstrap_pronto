@@ -1,0 +1,34 @@
+header{
+    background-color: #189AB4;
+}
+
+main{
+    background-color: #05445E;
+}
+
+footer{
+    background-color: #292D32;
+}
+
+img{
+    border-radius: 10%;
+}
+
+.logo{
+    border-radius: 340%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add{
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+}
+
+.adicionar{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
